@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-testimonial-page-using-css-grid-H5KwJhv5St)
-- Live Site URL: [Add live site URL here](https://harshilkabra.github.io/testimonial-grid)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-testimonial-page-using-css-grid-H5KwJhv5St]
+- Live Site URL: [https://harshilkabra.github.io/testimonial-grid]
 
 ### Built with
 
@@ -36,5 +36,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/harshilkabra)
+- Frontend Mentor - [@harshilkabra](https://www.frontendmentor.io/profile/harshilkabra)
 - Twitter - [@harshilkabra](https://www.twitter.com/harshilkabra)
